@@ -19,8 +19,8 @@ CIPHtool is a multitool i made for fun. built completely in batch, no fancies. j
 
 ##  how to run it
 
-just download the `.bat` file and double-click it. that’s it
-works on any Windows machine with CMD.
+just download the `.bat` file and double-click it. that’s it. 
+works on any `win` machine with `cmd `.
 
 if you're fancy, you can `cd` into the `dir`ectory of the bat file and do:
 
