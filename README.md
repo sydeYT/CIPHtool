@@ -22,9 +22,7 @@ CIPHtool is a batch multitool i made when i was beginning with batch. it has a n
 just download the `.bat` file and double-click it. that’s it. 
 works on any `win` machine with `cmd `.
 
-if you're 
-$$ \text{fancy} $$
-, you can `cd` into the `dir`ectory of the bat file and do:
+if you're fancy, you can `cd` into the `dir`ectory of the bat file and do:
 
 ```bat
 CIPHtool
