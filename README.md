@@ -1,8 +1,8 @@
 # CIPHtool
 
-> my old batch tool from way back. random cool stuff.
+my old batch multitool
 
-CIPHtool is a multitool i made for fun. built completely in batch, no fancies. just .bat. it has a nice-looking menu, secret features, and a bit of that fake hacker flair.
+CIPHtool is a batch multitool i made when i was beginning with batch. it has a nice-ish menu, secret features, and like stupid features.
 
 ---
 
@@ -10,10 +10,10 @@ CIPHtool is a multitool i made for fun. built completely in batch, no fancies. j
 
 - main menu with pipes and colors
 - secret menu (unlockable with a password)
-- random color generator
+- random color generator (epilepsy)
 - matrix mode (cause why not)
 - system uptime viewer
-- fake "time travel" script for the funnies (i don't think it works)
+- fake "time travel" (i don't think it works)
 
 ---
 
@@ -22,7 +22,9 @@ CIPHtool is a multitool i made for fun. built completely in batch, no fancies. j
 just download the `.bat` file and double-click it. that’s it. 
 works on any `win` machine with `cmd `.
 
-if you're fancy, you can `cd` into the `dir`ectory of the bat file and do:
+if you're 
+$$ \text{fancy} $$
+, you can `cd` into the `dir`ectory of the bat file and do:
 
 ```bat
 CIPHtool
